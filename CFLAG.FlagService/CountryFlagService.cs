@@ -14,8 +14,12 @@ namespace CFLAG.FlagService
             new CountryFlag { ID = 2, CountryName="United Kingdom"},
             new CountryFlag { ID = 3, CountryName="United States of America"},
             new CountryFlag { ID = 4, CountryName="France"},
-            new CountryFlag { ID = 5, CountryName="Nigeria"},
+            new CountryFlag { ID = 5, CountryName="Portugal"},
             new CountryFlag { ID = 6, CountryName="Australia"},
+            new CountryFlag { ID = 7, CountryName="Sweden"},
+            new CountryFlag { ID = 8, CountryName="Nigeria"},
+            new CountryFlag { ID = 9, CountryName="Germany"},
+            new CountryFlag { ID = 10, CountryName="Belgium"},
         };
 
         public List<CountryFlag> MergeFlags(string url, List<CountryFlag> countryFlags)

@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CFLAG.Repository", "CFLAG.R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CFLAG.FlagService", "CFLAG.FlagService\CFLAG.FlagService.csproj", "{93010852-5EAD-48A3-9E0C-FFFE5641C455}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFLAG.Test", "CFLAG.Test\CFLAG.Test.csproj", "{96AF345F-5886-41B6-AF62-AF49D210E2D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{93010852-5EAD-48A3-9E0C-FFFE5641C455}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93010852-5EAD-48A3-9E0C-FFFE5641C455}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93010852-5EAD-48A3-9E0C-FFFE5641C455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96AF345F-5886-41B6-AF62-AF49D210E2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AF345F-5886-41B6-AF62-AF49D210E2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AF345F-5886-41B6-AF62-AF49D210E2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AF345F-5886-41B6-AF62-AF49D210E2D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
